@@ -1,11 +1,10 @@
 ### About Me
-👋 Hi, I’m ALi Malik<br>🔍 Enthusiastic learner and adept problem solver passionate about tackling challenging issues to make a meaningful impact.<br>🌱 I’m currently learning to learn. Also, I am learning more Algorithms, System Design, and Backend Engineering.<br>👯 I’m looking to collaborate on great projects more on the Backend Engineering.<br>📫 How to reach me alindmlk41@gmail.com
+👋 Hi, I’m Ali Malik<br>🔍 Enthusiastic learner and adept problem solver passionate about tackling challenging issues to make a meaningful impact.<br>🌱 I’m currently learning to learn. Also, I am learning more Algorithms, System Design, and Backend Engineering.<br>👯 I’m looking to collaborate on great projects more on the Backend Engineering.<br>📫 How to reach me alindmlk41@gmail.com
 
 
 ### Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/alii.malik_/?igsh=OHhmeWk4NWV4ODRq#) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ali-malik-706340211/)
 
-### GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=moeez506&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 <!-- ![](https://github-readme-streak-stats.herokuapp.com/?user=moeez506&theme=highcontrast&hide_border=false)
